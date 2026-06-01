@@ -1,4 +1,3 @@
-# Customer_Behavior_Analysis_Project
 # Customer Behavior Analysis Project
 
 ## Project Overview
@@ -66,9 +65,9 @@ Developed an interactive dashboard to visualize:
 
 ## Dashboard Preview
 
+![Dashboard Overview](dashboard1.png)
+![Dashboard Overview](dashboard2.png)
+![Dashboard Overview](dashboard3.png)
+![Dashboard Overview](dashboard4.png)
 
 
-## Author
-
-Dinithi Amanda
-Aspiring Data Analyst
