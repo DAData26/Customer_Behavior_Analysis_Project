@@ -65,7 +65,7 @@ Developed an interactive dashboard to visualize:
 
 ## Dashboard Preview
 
-![Dashboard Overview](dashboard1.png)
+![Dashboard Overview](dashboard5.png)
 ![Dashboard Overview](dashboard2.png)
 ![Dashboard Overview](dashboard3.png)
 ![Dashboard Overview](dashboard4.png)
